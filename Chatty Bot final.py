@@ -45,7 +45,6 @@ def test():
             break
         else: 
             print("Please, try again.")
-    print('Completed, have a nice day!')
 
 
 def end():
